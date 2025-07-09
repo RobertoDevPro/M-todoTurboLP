@@ -949,7 +949,7 @@ export default function MetodoTurboLanding() {
               <p className="text-lg md:text-2xl font-bold text-white mb-4">De R$ 2.497 por apenas:</p>
               <div className="flex items-center justify-center space-x-3 md:space-x-6 mb-4">
                 <span className="text-2xl md:text-3xl font-bold text-red-500 line-through">R$ 497</span>
-                <span className="text-4xl md:text-6xl font-bold text-yellow-400">R$ 197</span>
+                <span className="text-4xl md:text-6xl font-bold text-yellow-400">R$ 97</span>
               </div>
               <p className="text-gray-300 text-lg md:text-xl">ou 12x de R$ 19,70</p>
             </div>
