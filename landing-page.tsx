@@ -951,7 +951,7 @@ export default function MetodoTurboLanding() {
                 <span className="text-2xl md:text-3xl font-bold text-red-500 line-through">R$ 497</span>
                 <span className="text-4xl md:text-6xl font-bold text-yellow-400">R$ 97</span>
               </div>
-              <p className="text-gray-300 text-lg md:text-xl">ou 12x de R$ 19,70</p>
+              <p className="text-gray-300 text-lg md:text-xl">ou 12x de R$ 7,50</p>
             </div>
 
             <a
