@@ -94,7 +94,7 @@ export default function MetodoTurboLanding() {
             <div className="relative bg-gray-800 rounded-2xl p-2 shadow-2xl border border-yellow-500/20">
               <div className="aspect-video bg-gradient-to-br from-gray-900 to-black rounded-xl overflow-hidden">
                 <iframe
-                  src="https://www.youtube.com/embed/nsl3jI7ggKA"
+                  src="https://www.youtube.com/embed/lMOpWx2adUg"
                   title="Método Turbo - VSL Original"
                   className="w-full h-full rounded-xl"
                   frameBorder="0"
